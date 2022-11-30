@@ -5,8 +5,7 @@
 
 using namespace std;
 
-struct Zdarzenie
-{
+struct Zdarzenie {
   string id;
   string oficer;
   char typ;
